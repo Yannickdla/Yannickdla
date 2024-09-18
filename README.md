@@ -1,5 +1,5 @@
 ## Bonjour à vous 👋
-# 💫 About Me:
+# 💫 A Propos:
 Diplômé du master spécialisé Expert big data engineer de l'utt, Je suis à la recherche d'un CDI en tanat que data analyst ou data scientist
 
 
